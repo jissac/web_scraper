@@ -1,2 +1,6 @@
-# web_scraper
-Scraping websites using Python
+# Web Scraper in Python
+### Scraping websites using Python
+---
+
+Some thoughts:
+- 
