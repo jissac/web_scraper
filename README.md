@@ -1,4 +1,4 @@
-# Web Scraper in Python
+# Web Scrapers in Python
 ### Scraping websites using Python
 ---
 
